@@ -12,6 +12,7 @@ function App() {
       <HooksCakeContainer/>
 
       <NewCakeContainer/>
+      <NewCakeContainer/>
       <IceCreamContainer/>
     </Provider>
   );
